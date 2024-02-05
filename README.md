@@ -32,25 +32,25 @@ The typical vitals that are monitored in hydroponic systems are listed below alo
 **Design and Architecture**
 
 Software Logical Flow
+![image](https://github.com/dpannem21/hydro_auto/assets/95881563/4ff98012-b655-46ab-b919-d393be16b24e)
 
-![image](https://github.com/dpannem21/hydro_auto/assets/95881563/4d6279c7-1164-4de5-86f3-a23c47e7cdd5)
-
-Hardware Schematic
-
-![image](https://github.com/dpannem21/hydro_auto/assets/95881563/d967ae41-c31a-4133-839c-dadc9d89c2c8)
+Hardware Schematic   
+![image](https://github.com/dpannem21/hydro_auto/assets/95881563/9a636aa7-ba95-439d-b22f-15f8c85613bb)
 
 **Final Implementation**
 
-Embedded System 
-
-![image](https://github.com/dpannem21/hydro_auto/assets/95881563/bf4b3c8f-219f-496e-a7f7-360b511c1c2c)
+Embedded System  
+![image](https://github.com/dpannem21/hydro_auto/assets/95881563/0ed0037e-507e-46e2-a288-e2ca072d28e1)
 
 IoT Dashboard - ThingSpeak
+![image](https://github.com/dpannem21/hydro_auto/assets/95881563/c590468f-fa2b-4b9d-87ef-65f605a752dc)
 
-![image](https://github.com/dpannem21/hydro_auto/assets/95881563/8e5b181e-adcb-4bf7-8060-8ae1479b6073)
+Testing at IFS's greenhouse on a prototype hydroponic system
+![image](https://github.com/dpannem21/hydro_auto/assets/95881563/ce12cec6-4963-4e51-8c64-7d0675cc457b)
 
-Testing it at IFS's greenhouse on a prototype hydroponic system
-![image](https://github.com/dpannem21/hydro_auto/assets/95881563/8b3f4dd7-cd69-4b63-b414-392eee3c47d4)
+Implemented hydroponic system
+![image](https://github.com/dpannem21/hydro_auto/assets/95881563/51eca268-893a-4c05-a6da-a9df6a69acc2)
+
 
 **B.O.M (Bill of Materials)**
 | Item                                                            | Price  | Quantity | Link    |
@@ -76,12 +76,10 @@ Testing it at IFS's greenhouse on a prototype hydroponic system
 | TOTAL: (pre-tax & shipping)                                     | ~ $450 |          |         |
 
 
+
+
+
 I would like to thank NCSU's honors college for funding this project and for all the people at EWB and IFS who helped with the design and thought that went into this project :) 
 
-![image](https://github.com/dpannem21/hydro_auto/assets/95881563/4ef8c580-08f4-4969-a729-1ad0320cc97e) ![image](https://github.com/dpannem21/hydro_auto/assets/95881563/d022745a-9b52-4b0e-a498-3b812a585784)
-![image](https://github.com/dpannem21/hydro_auto/assets/95881563/c02b9603-72ff-4f46-98b5-eb78fa70b1f1)
-
-
-
-
-
+![image](https://github.com/dpannem21/hydro_auto/assets/95881563/3af7d443-9d1b-4eef-aca1-43e1bb2a6da4)![image](https://github.com/dpannem21/hydro_auto/assets/95881563/e248ad38-f1f3-42ba-b877-db200223b34f)
+![image](https://github.com/dpannem21/hydro_auto/assets/95881563/c4f2d6cc-014a-404b-a466-b8071420ed2d)
