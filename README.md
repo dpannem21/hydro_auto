@@ -73,13 +73,12 @@ Implemented hydroponic system
 | Power Supply Module 12V 2A (2 pc)                               | $11.75 | 1        | Amazon  |
 | Power Supply Module 5V 2A                                       | $9.99  | 1        | Amazon  |
 | Surge Protector Power Strip 3 outlets, 15ft                     | $16.66 | 1        | Amazon  |
-| TOTAL: (pre-tax & shipping)                                     | ~ $450 |          |         |
-
+| TOTAL: (pre-tax & shipping)                                     | ~ $450 |          |         |  
 
 
 
 
 I would like to thank NCSU's honors college for funding this project and for all the people at EWB and IFS who helped with the design and thought that went into this project :) 
 
-![image](https://github.com/dpannem21/hydro_auto/assets/95881563/3af7d443-9d1b-4eef-aca1-43e1bb2a6da4)![image](https://github.com/dpannem21/hydro_auto/assets/95881563/e248ad38-f1f3-42ba-b877-db200223b34f)
-![image](https://github.com/dpannem21/hydro_auto/assets/95881563/c4f2d6cc-014a-404b-a466-b8071420ed2d)
+![image](https://github.com/dpannem21/hydro_auto/assets/95881563/3af7d443-9d1b-4eef-aca1-43e1bb2a6da4) ![image](https://github.com/dpannem21/hydro_auto/assets/95881563/e248ad38-f1f3-42ba-b877-db200223b34f)
+ ![image](https://github.com/dpannem21/hydro_auto/assets/95881563/c4f2d6cc-014a-404b-a466-b8071420ed2d)
